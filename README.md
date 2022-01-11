@@ -2,7 +2,7 @@
 <h1 align="center"> Olá, me chamo Karina Mel e tenho 19 anos.</h1>
 <div align="center">
 - ❤️ Sou uma desenvolvedora web front-end </br>
-- ✨ Estudando: HTML e CSS 
+- ✨ Estudando: HTML, CSS e JavaScript.
 <div style="display: inline_block"><br>
   <a href='https://github.com/KarinaMel0'>
   <img align="center" alt="-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
