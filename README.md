@@ -4,8 +4,10 @@
 <P>I intend to work with projects that positively change people's lives through technology.&#127802;<p>
  
  <p>&#9749; Entra no meu Linkedin, tem coisas maneiras por lá//Enter my LinkedIn, there are cool things there &#9749;<P>
+  <div align="center">
     <a href="https://www.linkedin.com/in/karina-mel-611649223/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="mailto:Karinamelarantessilva@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </div>
 <div align="center">
  
 
