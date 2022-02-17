@@ -1,6 +1,6 @@
 
 <h1 align="center">  Welcome, my name is Karina Mel <br>
- I'm a front-end developer</h1>
+ I'm a front-end developer :woman_technologist: </h1> 
 <p>&#128126; My first contact with programming was through games, on a platform called Roblox. Today I focus my studies on Web programming, focused on Front-End. / Meu primeiro contato com programação foi por meio de jogos, em uma plataforma chamada Roblox. Hoje foco meus estudos em programação Web, com foco em Front-End.<p>
 <P>I intend to work with projects that positively change people's lives through technology. / Pretendo trabalhar com projetos que mudem positivamente a vida das pessoas por meio da tecnologia.&#127802;<p>
  
