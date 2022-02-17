@@ -19,8 +19,10 @@
 </div>
   
 </div></br>
-<div align="center" style="display:inline;">
-<img src="https://cdn.discordapp.com/attachments/725539486951538750/898375155527602206/download20211004220110.png"  style='width:300px'/>
+<div align="center" style="display:inline,">
+ <kbd style='border-radius:50%;'>
+<img src="https://cdn.discordapp.com/attachments/725539486951538750/943887187378855966/download20220204121027.png"  style='width:300px; '/>
+  </kbd>
 </div>
 <div align="center">
   <a href="https://github.com/KarinaMel0">
