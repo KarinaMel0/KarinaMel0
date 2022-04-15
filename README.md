@@ -1,6 +1,6 @@
 <div align="center">
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&color=C39D51&center=true&lines=++Welcome%2C+my+name+is+Karina+Mel;Bem-Vindo%2C+Meu+nome+%C3%A9+Karina+Mel+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A98317&multiline=true&height=400&lines=Ol%C3%A1%2C+Bem+vindo+ao+meu+perfil.;Fique+a+vontade+para+clonar+;meus+reposit%C3%B3rios.;%3A))](https://git.io/typing-svg)
  
 </div>
 
