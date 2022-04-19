@@ -1,6 +1,6 @@
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A98317&multiline=true&height=400&lines=Ol%C3%A1%2C+Bem+vindo+ao+meu+perfil.;Fique+a+vontade+para+clonar+;meus+reposit%C3%B3rios.;%3A))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&multiline=true&lines=Ol%C3%A1%2C+Bem+vindo+ao+meu+perfil+%3A)](https://git.io/typing-svg)
  
 </div>
 
