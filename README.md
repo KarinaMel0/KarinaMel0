@@ -1,7 +1,7 @@
 
 
  <h3 align="center"> Front-End Development Student at Laboratoria Brazil </h3> 
-<p>&#128126; My first contact with programming was through games, on a platform called Roblox. Today I focus my studies on Web programming. / Meu primeiro contato com programação foi por meio de jogos, em uma plataforma chamada Roblox. Hoje foco meus estudos em programação Web.<p>
+<p>&#128126; My first contact with programming was through games. Today I focus my studies on Web programming. / Meu primeiro contato com programação foi por meio de jogos. Hoje foco meus estudos em programação Web.<p>
 <P>I intend to work with projects that positively change people's lives through technology. / Pretendo trabalhar com projetos que mudem positivamente a vida das pessoas por meio da tecnologia.&#127802;<p>
  
  <p>&#9749; Da uma olhada no meu <a target="_blank" href='https://www.linkedin.com/in/karina-mel-611649223/'> Linkedin </a>/Check out my <a target="_blank" href='https://www.linkedin.com/in/karina-mel-611649223/'>LinkedIn</a> &#9749;<P>
