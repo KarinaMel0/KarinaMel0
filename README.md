@@ -17,7 +17,6 @@
   <img align="center" alt="-Js" height="40" width="40" src="https://img.icons8.com/dusk/344/javascript-logo.png">
   <img align="center" alt="-HTML" height="40" width="40" src="https://img.icons8.com/dusk/344/html-5.png">
   <img align="center" alt="-CSS" height="40" width="40" src="https://img.icons8.com/dusk/344/css3.png">
-  <img align="center" alt="-Python" height="40" width="40" src="https://img.icons8.com/dusk/344/python.png">
 </div>
   
 </div></br>
