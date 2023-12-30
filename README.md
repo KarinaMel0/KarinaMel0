@@ -51,8 +51,6 @@
 ---
 <div align="center" style="display:flex"> 
 <h3>Playlist que geralmente uso para codar &#9749;</h3>
-
-<a target="_blank" href='https://open.spotify.com/playlist/5S85xmkjdaMBp91V5ACjPv?si=2be2363b34d1430a'><img src="https://cdn.discordapp.com/attachments/725539486951538750/990967361140035684/Nintendo_Lofi__chill.gif" height="250" width="250"/></a>
 </div>
 
 ---
