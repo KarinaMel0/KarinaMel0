@@ -50,11 +50,6 @@
 
 ---
 <div align="center" style="display:flex"> 
-<h3>Playlist que geralmente uso para codar &#9749;</h3>
-</div>
-
----
-<div align="center" style="display:flex"> 
 <h3>Se quiser bater um papo, só chamar :)</h3>
 
 <a href="https://www.linkedin.com/in/karina-mel-611649223/" target="_blank"><img src="https://cdn.discordapp.com/attachments/725539486951538750/990985215633653830/174857.png" height='50' width="50" target="_blank"></a>
