@@ -58,6 +58,6 @@
 <h3>Se quiser bater um papo, só chamar :)</h3>
 
 <a href="https://www.linkedin.com/in/karina-mel-611649223/" target="_blank"><img src="https://cdn.discordapp.com/attachments/725539486951538750/990985215633653830/174857.png" height='50' width="50" target="_blank"></a>
-<a href="https://open.spotify.com/user/karinamelarantessilva?si=616f804c100c4ed7" target="_blank"><img src="https://cdn.discordapp.com/attachments/725539486951538750/990980551915749477/Spotify_logo_without_text.svg.png" height="50" width="50" target="_blank"></a>
+
 
 
